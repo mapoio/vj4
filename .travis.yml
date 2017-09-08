@@ -33,4 +33,3 @@ deploy:
     repo: vijos/vj4
     tags: true
     python: 3.5
-
